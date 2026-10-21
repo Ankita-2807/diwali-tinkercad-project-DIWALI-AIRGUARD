@@ -42,3 +42,6 @@ You can test and run the live circuit simulation here:
 ## 📷 Circuit Diagram & Simulation Preview
 <img width="1915" height="901" alt="circuit png" src="https://github.com/user-attachments/assets/aebd70cb-d293-4b05-aad4-ac09a4f825d3" />
 
+Simulation Note (Sensor Substitution):
+"Due to the absence of a dedicated physical air quality/gas sensor module in Tinkercad, a potentiometer was utilized as a functional analog substitute. It simulates dynamic analog input values (0–1023) corresponding to varying particulate and smoke concentrations. In real-world hardware deployment, this will be replaced with an actual gas sensor, such as the MQ-135 (for air quality/hazardous gases) or MQ-2 (for smoke and flammable gases)."
+
